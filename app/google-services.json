@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020831970622",
+    "project_id": "jessstargram",
+    "storage_bucket": "jessstargram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020831970622:android:b53f75c9b31424e7fae86f",
+        "android_client_info": {
+          "package_name": "com.jessprac.jessstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020831970622-lclk86gjfp8sudkbhvjdamc39tbhqd6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GKwuOkrnYeFeNwaRPJgKS8_AzyEIU9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020831970622-lclk86gjfp8sudkbhvjdamc39tbhqd6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
